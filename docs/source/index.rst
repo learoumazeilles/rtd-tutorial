@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to EVA's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -20,4 +20,5 @@ Contents
 
    usage
    api
+   testing page <new>
 Lumache has its documentation hosted on Read the Docs.
