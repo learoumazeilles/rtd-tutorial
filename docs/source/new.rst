@@ -1,1 +1,9 @@
-Testing some stuff
+New
+=====
+
+.. _test:
+
+Test
+------------
+
+testing stuff
