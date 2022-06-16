@@ -19,7 +19,7 @@ Contents
 .. toctree::
 
    usage
-   api
-   testing page <new>
+   api test <api>
+   
    
 Lumache has its documentation hosted on Read the Docs.
